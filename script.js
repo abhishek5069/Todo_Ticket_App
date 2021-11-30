@@ -1,5 +1,5 @@
 let filters=document.querySelectorAll(".filters");
-//let ticketcontainer=document.querySelector(".tickets-container");
+
 
  for(let i=0;i<filters.length;i++){
     filters[i].addEventListener("click",selectfilter);
